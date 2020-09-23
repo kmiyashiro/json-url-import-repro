@@ -1,0 +1,11 @@
+{
+  "name": "json-url-import-repro",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:kmiyashiro/json-url-import-repro.git",
+  "author": "Kelly Miyashiro <kmiyashiro@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "json-url": "^2.6.0"
+  }
+}
